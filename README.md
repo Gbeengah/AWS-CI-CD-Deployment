@@ -1,7 +1,7 @@
 # AWS-CI-CD-Deployment
 using aws developer tools(Codepipeline - codecommit, codebuild and codedeploy) to continuosly build,test and deploy a simple webpage on an EC2 Instance
 
-![image](https://github.com/user-attachments/assets/8fe89732-545c-4640-9227-af2744596830)
+![image](https://github.com/user-attachments/assets/322bc0a3-c006-49d2-92da-6313e7f82023)
 
 ## Project Completion Steps
 ### Completion Steps →
