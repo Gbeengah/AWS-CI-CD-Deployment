@@ -17,4 +17,4 @@ using aws developer tools(Codepipeline - codecommit, codebuild and codedeploy) t
 10. Setup code pipeline to automate whole process
 
 
-to read the full article on my blog --> https://medium.com/p/7a219313d7ce/edit
+to read the full article on my blog --> https://bgbenga7.medium.com/aws-ci-cd-deployment-7a219313d7ce
